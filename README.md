@@ -7,4 +7,4 @@ Make sure you've first included [ripplet.js](https://github.com/luncheon/ripplet
 
 ## License
 
-Unlicense
+(Modified) Unlicense. Changes: remove link to website, add optional attribution
