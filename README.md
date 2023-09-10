@@ -12,6 +12,14 @@ I combined both ripplet.js and ripple.js into one file (r.js) to make everything
 <button ripple>Click Me</button>
 ```
 
+Note: `r-disabled.js` disables ripple on disabled buttons.
+
+**[NEW] Or use the CDN**
+
+`<script src="https://cdn.jsdelivr.net/gh/fakerybakery/ripple.js/r.js"></script>`
+
+`<script src="https://cdn.jsdelivr.net/gh/fakerybakery/ripple.js/r-disabled.js"></script>`
+
 ### The hard way
 
 ```html
